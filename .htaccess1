@@ -1,0 +1,9 @@
+# Turnpage Security Configuration
+# Date: 2025-01-17
+
+# Enable rewrite engine
+RewriteEngine On
+
+# Force HTTPS in production
+# RewriteCond %{HTTPS} off
+# RewriteRule
